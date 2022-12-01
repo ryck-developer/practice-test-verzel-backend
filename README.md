@@ -7,5 +7,5 @@ Para rodar este projeto deve ser criado um virtualenv na máquna em que o projet
 
 Se o ambiente virtual estiver configurado corretamente, um "pip install -r requirements.txt" dentro da pasta do projeto vai instalar as dependencias na máquina destino.
 
-🛠️ Comando secundário caso o primeiro não instale as dependências “🛠️: 
+🛠️ Comando secundário caso o primeiro não instale as dependências 🛠️: 
 "pip freeze --user > requirements.txt"
