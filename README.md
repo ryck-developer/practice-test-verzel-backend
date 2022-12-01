@@ -1,7 +1,7 @@
 # practice-test-verzel-backend
 django-rest-framework with jwt token
 
-🕵🏻 O "virtualenv" não deve foi incluso nos arquivos versionados pelo GIT. As bibliotecas e módulos que são instaladas para um projeto funcionar no virtualenv são sempre dependentes do sistema operacional e arquitetura onde o projeto está rodando.
+🕵🏻 O "virtualenv" não foi incluso nos arquivos versionados pelo GIT. As bibliotecas e módulos que são instaladas para um projeto funcionar no virtualenv são sempre dependentes do sistema operacional e arquitetura onde o projeto está rodando.
 
 Para rodar este projeto deve ser criado um virtualenv na máquna em que o projeto foi clonado. Seja ela Windows ou Linux. 🚀
 
