@@ -5,7 +5,7 @@ from vehicle.serializers import *
 
 # ALTERAR PARA TRUE QUANDO FOR PARA PRODUÇÃO 
 # OU PERMITIR SOMENTE LEITURA NOS TESTES
-PRODUCTION_ = True
+PRODUCTION_ = False
 
 class VehicleViewSet(viewsets.ModelViewSet):
     queryset = VehicleModel.objects.all().order_by('preco')
